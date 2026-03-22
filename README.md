@@ -1,5 +1,5 @@
 
-# 🔐 Image Steganography — CS23601 Mini Project
+# 🔐 Image Steganography 
 
 > **Secure image steganography using AES-128 encryption, SVD decomposition & compression, and LSB pixel embedding.**
 
@@ -107,26 +107,4 @@ pip install pycryptodome gradio numpy Pillow scikit-image matplotlib
 ---
 
 
-
-## 📹 Demo Video
-
-A 3–5 minute voice-over demo video is available in the `assets/` folder.
-It covers:
-- Running the application
-- Embedding a secret message
-- Downloading the stego image and key file
-- Extracting and recovering the message
-- Viewing the quality metrics and comparison plot
-
----
-
-## 📚 References
-
-1. P. K. Pooranakala and V. Jaitly, "Securing medical images using compression techniques with encryption and image steganography," CONIT 2023.
-2. J. Verma et al., "Fusion of cryptography and steganography with LSB for secure data hiding," SUSTAINED 2024.
-3. N. N. Murthy and V. Hegde, "Secure data hiding: A comprehensive LSB-based steganography framework," IEEE 2026.
-4. R. R. Isnanto et al., "Robustness of steganography image method using dynamic LSB," ISRITI 2018.
-5. T. Pevny and J. Fridrich, "Multiclass detector of steganographic methods for JPEG format," IEEE TIFS 2008.
-
----
 
