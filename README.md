@@ -30,27 +30,6 @@ This project implements a **9-step hybrid steganography pipeline** that:
 
 ---
 
-## 📁 Repository Structure
-
-```
-steganography_project/
-│
-├── README.md                        ← You are here
-│
-├── demo/
-│   ├── steganography_complete.py    ← Main application code
-│   └── README.md                    ← How to run the demo
-│
-├── latex/
-│   ├── ieee_steganography.tex       ← IEEE conference paper (LaTeX)
-│   └── README.md                    ← How to compile the paper
-│
-└── assets/
-    └── README.md                    ← Screenshots and demo video info
-```
-
----
-
 ## 🚀 Quick Start
 
 ### 1. Clone the repository
@@ -127,12 +106,7 @@ pip install pycryptodome gradio numpy Pillow scikit-image matplotlib
 
 ---
 
-## 📄 Paper
 
-The IEEE conference paper is in the `latex/` folder.
-See `latex/README.md` for compilation instructions.
-
----
 
 ## 📹 Demo Video
 
@@ -156,6 +130,3 @@ It covers:
 
 ---
 
-## 📝 License
-
-This project was developed as part of CS23601 Mini Project.
