@@ -1,4 +1,4 @@
-# Image_steganography
+
 # 🔐 Image Steganography — CS23601 Mini Project
 
 > **Secure image steganography using AES-128 encryption, SVD decomposition & compression, and LSB pixel embedding.**
