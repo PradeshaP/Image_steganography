@@ -46,7 +46,7 @@ pip install pycryptodome gradio numpy Pillow scikit-image matplotlib
 ### 3. Run the application
 ```bash
 cd demo
-python steganography_complete.py
+python steganography.py
 ```
 
 ### 4. Open the web UI
