@@ -5,17 +5,6 @@
 
 ---
 
-## 👥 Team Members
-
-| Name | Roll Number | Module |
-|------|-------------|--------|
-| Sumitha GK | 2023503024 | AES-128 Encryption & Decryption (Steps 2 & 9) |
-| Jenifa V | 2023503044 | SVD Decomposition & Compression (Steps 3, 4, 5) |
-| Pradesha P | 2023503054 | LSB Embedding & Extraction (Steps 6 & 8) |
-| Vethavalli GM | 2023503550 | Pipeline, Metrics & Gradio UI (Steps 1 & 7) |
-
----
-
 ## 📌 Project Overview
 
 This project implements a **9-step hybrid steganography pipeline** that:
